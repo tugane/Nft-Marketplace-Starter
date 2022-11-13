@@ -1,10 +1,12 @@
 # Nft-Marketplace-Starter
 
+
+
 ## Get Started
 
 ## Step1
 
-install dev dependences
+install dev dependencies
 
 ### `npm install`
 
